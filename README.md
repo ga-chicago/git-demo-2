@@ -3,7 +3,7 @@
 * hey i added this
 
 
-Hey my name is Nico
+Hey my name is Boris
 
 My roommate's dogs' names are Wyatt and Clementine
 
@@ -11,3 +11,6 @@ My roommate's dogs' names are Wyatt and Clementine
 
 
   WHAT ARE PETS
+
+My friend's name is cat yeah! 
+
