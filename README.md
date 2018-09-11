@@ -7,3 +7,5 @@
 Hey my name is Nico
 
 My roommate's dogs' names are Wyatt and Clementine
+
+My dog's are pretty awesome :)
